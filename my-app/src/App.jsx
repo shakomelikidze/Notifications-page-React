@@ -1,10 +1,12 @@
 import './App.css'
+import Notification from './components/notification'
 
 function App() {
 
   return (
     <>
-    <h1>Hello world React</h1>
+    <Notification />
+    
     </>
   )
 }
